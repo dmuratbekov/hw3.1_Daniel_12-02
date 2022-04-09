@@ -1,0 +1,15 @@
+
+.block{
+    padding: 40px;
+    background-color: teal;
+    width: 500px;
+    height: 250px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-size: 40px;
+    color: wheat;
+}
